@@ -5,3 +5,7 @@
 - [x] Javascript Solution   
 - [ ] Python Solution  
 
+## Problem 7. Reverse Integer  
+*Difficulty: Easy*  
+- [x] Javascript Solution   
+- [ ] Python Solution  
