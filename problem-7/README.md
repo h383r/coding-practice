@@ -1,4 +1,4 @@
-## Leetcode Problem 7. Reverse Integer
+## Problem 7. Reverse Integer
 
 Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2^31, 2^31 - 1], then return 0.
 
@@ -24,7 +24,6 @@ Output: 21
 Input: x = 0  
 Output: 0  
  
-### Constraints:
+## Constraints:
 - -2^31 <= x <= 2^31 - 1  
-
-2,147,483,647 = 2^31 − 1 (Largest value that a signed 32-bit integer field can hold.)
+- 2,147,483,647 = 2^31 − 1 (Largest value that a signed 32-bit integer field can hold.)
