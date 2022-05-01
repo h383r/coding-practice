@@ -13,16 +13,18 @@ std::vector<std::string> towerBuilder(unsigned nFloors) {
     }
 
     for(int i = 0; i < nFloors; i++){
+
         std::string currentFloor;
 
         for(int j = 0; j < base; j++){
 
             int midIndex = ((base - 1) / 2);  
+
             if(
                 ((j >= midIndex) && (j <= (midIndex + i)))
                 ||
                 ((j <= midIndex) && (j >= (midIndex - i)))        
-                ){
+            ){
                 currentFloor = currentFloor + "*";
             } else {
                 currentFloor = currentFloor + " ";
