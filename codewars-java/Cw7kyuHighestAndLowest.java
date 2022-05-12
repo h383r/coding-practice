@@ -1,4 +1,4 @@
-public class Kata{
+public class Cw7kyuHighestAndLowest{
 
     /*
     Given a string of space separated numbers, return the highest and lowest number.

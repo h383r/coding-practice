@@ -1,4 +1,4 @@
-public class BuildTower {
+public class Cw6kyuBuildTower {
 
     public static String[] towerBuilder(int nFloors){
         

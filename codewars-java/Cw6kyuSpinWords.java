@@ -1,5 +1,5 @@
 // https://www.codewars.com/kata/5264d2b162488dc400000001/train/java
-public class SpinWords {
+public class Cw6kyuSpinWords {
     
     public static String spinWords(String sentence) {
         
