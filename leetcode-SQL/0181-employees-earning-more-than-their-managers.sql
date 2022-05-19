@@ -36,7 +36,7 @@ Output:
 +----------+
 */
 
--- CREATE TABLE practice;
+CREATE TABLE practice;
 USE practice;
 
 CREATE TABLE Employee (

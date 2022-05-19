@@ -24,6 +24,7 @@ customerId is a foreign key of the ID from the Customers table.
 Each row of this table indicates the ID of an order and the ID of the customer who ordered it.
 */
 
+CREATE TABLE practice;
 USE practice;
 
 CREATE TABLE Customers (
