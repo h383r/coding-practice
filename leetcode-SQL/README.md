@@ -39,7 +39,7 @@ https://leetcode.com/problems/second-highest-salary/
 
 ## Union
 175. Combine Two Tables  
-https://leetcode.com/problems/combine-two-tables/
+https://leetcode.com/problems/combine-two-tables/  ---------------------------------------------------------  
 1581. Customer Who Visited but Did Not Make Any Transactions  
 https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/
 1148. Article Views I  
