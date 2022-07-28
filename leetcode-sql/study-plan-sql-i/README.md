@@ -50,7 +50,7 @@ https://leetcode.com/problems/rising-temperature/
 https://leetcode.com/problems/sales-person/  
 
 ## Function
-1141. User Activity for the Past 30 Days I  
+1141. User Activity for the Past 30 Days I  ✔  
 https://leetcode.com/problems/user-activity-for-the-past-30-days-i/
 1693. Daily Leads and Partners  
 https://leetcode.com/problems/daily-leads-and-partners/
