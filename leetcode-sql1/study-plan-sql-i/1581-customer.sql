@@ -18,8 +18,6 @@ INSERT INTO Visits (visit_id, customer_id) VALUES (6, 96);
 INSERT INTO Visits (visit_id, customer_id) VALUES (7, 54);
 INSERT INTO Visits (visit_id, customer_id) VALUES (8, 54);
 
--- SQLite3
-
 -- Table Transactions
 -- This table contains information about the transactions made during the visit_id.
 

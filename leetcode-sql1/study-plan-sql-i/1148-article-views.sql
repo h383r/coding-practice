@@ -1,8 +1,6 @@
 -- 1148. Article Views I  
 -- https://leetcode.com/problems/article-views-i/
 
--- SQLite3
-
 -- Table Views
 -- Each row of this table indicates that some viewer viewed an article (written by some author) on some date. 
 -- Note that equal author_id and viewer_id indicate the same person.

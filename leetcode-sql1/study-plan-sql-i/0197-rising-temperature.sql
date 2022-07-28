@@ -1,8 +1,6 @@
 -- 197. Rising Temperature  
 -- https://leetcode.com/problems/rising-temperature/
 
--- MySQL
-
 -- Table Weather
 -- This table contains information about the temperature on a certain day.
 
