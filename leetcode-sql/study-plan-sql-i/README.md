@@ -50,11 +50,11 @@ https://leetcode.com/problems/rising-temperature/
 https://leetcode.com/problems/sales-person/  
 
 ## Function
-1141. User Activity for the Past 30 Days I  ✔  
+1141. User Activity for the Past 30 Days I ✔  
 https://leetcode.com/problems/user-activity-for-the-past-30-days-i/
-1693. Daily Leads and Partners  
+1693. Daily Leads and Partners ✔  
 https://leetcode.com/problems/daily-leads-and-partners/
-1729. Find Followers Count  
+1729. Find Followers Count ✔  
 https://leetcode.com/problems/find-followers-count/
 586. Customer Placing the Largest Number of Orders  
 https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/

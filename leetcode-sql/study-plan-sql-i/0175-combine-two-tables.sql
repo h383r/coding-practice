@@ -1,6 +1,9 @@
 -- 175. Combine Two Tables  
 -- https://leetcode.com/problems/combine-two-tables/
 
+-- MySQL
+
+
 -- Table Person
 -- This table contains information about the ID of some persons and their first and last names.
 
